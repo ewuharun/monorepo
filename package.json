@@ -1,0 +1,14 @@
+{
+  "description": "mono repo package manager",
+  "main": "index.js",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "lerna publish"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^8.2.1"
+  }
+}
