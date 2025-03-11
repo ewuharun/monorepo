@@ -1,1 +1,1 @@
-console.log("package 2 update breaking change")
+console.log("package 2 upd change")
