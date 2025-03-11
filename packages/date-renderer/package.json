@@ -1,6 +1,6 @@
 {
   "name": "@ewuharun/date-renderer",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "date renderer package",
   "main": "index.js",
   "repository": "https://github.com/ewuharun/monorepo.git",
