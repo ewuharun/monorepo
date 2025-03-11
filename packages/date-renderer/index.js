@@ -1,1 +1,1 @@
-console.log("package 2 update again")
+console.log("package 2 update")
