@@ -1,14 +1,12 @@
 name: Publish
 on:
-  pull_request:
-    types: [closed]
+  push:
     branches:
       - develop
       - main
 
 jobs:
   publish:
-    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -23,6 +21,11 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: '20'
+
+    - name: "Setup npm"
+      run: |
+        npm set @ewuharun:registry=https://npm.pkg.github.com/
+        npm set "//npm.pkg.github.com/:_authToken=${{ secrets.GIT_TOKEN }}"
 
     - name: "Version and publish" # Interesting step
       env:
