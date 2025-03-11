@@ -1,6 +1,6 @@
 {
   "name": "@ewuharun/date-logic",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A package that returns the current date",
   "main": "index.js",
   "repository": "https://github.com/ewuharun/monorepo.git",
@@ -8,9 +8,13 @@
     "@ewuharun:registry": "https://npm.pkg.github.com/ewuharun"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo test",
+    "build": "npm i"
   },
   "author": "ewuharun",
   "license": "ISC",
-  "gitHead": "e2046bafb75730e090c50deabfbfa6c24affeccc"
+  "gitHead": "e2046bafb75730e090c50deabfbfa6c24affeccc",
+  "devDependencies": {
+    "@types/node": "^17.0.18"
+  }
 }
