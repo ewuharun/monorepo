@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/ewuharun/monorepo/compare/@ewuharun/date-renderer@2.3.2...@ewuharun/date-renderer@3.0.0) (2025-03-11)
+
+
+### Features
+
+* **auth:** migrate to OAuth2 authentication ([e3b5118](https://github.com/ewuharun/monorepo/commit/e3b51180fa09b5bf12260f8a8788d7ddd4fc2e38))
+
+
+### BREAKING CHANGES
+
+* **auth:** Existing API keys will no longer work. Users must generate new OAuth tokens.
+
+
+
+
+
 ## [2.3.2](https://github.com/ewuharun/monorepo/compare/@ewuharun/date-renderer@2.3.1...@ewuharun/date-renderer@2.3.2) (2025-03-11)
 
 **Note:** Version bump only for package @ewuharun/date-renderer
