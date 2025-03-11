@@ -8,9 +8,13 @@
     "@ewuharun:registry": "https://npm.pkg.github.com/ewuharun"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo test 2",
+    "build": "npm i"
   },
   "author": "ewuharun",
   "license": "ISC",
-  "gitHead": "e2046bafb75730e090c50deabfbfa6c24affeccc"
+  "gitHead": "e2046bafb75730e090c50deabfbfa6c24affeccc",
+  "devDependencies": {
+    "@types/node": "^17.0.18"
+  }
 }

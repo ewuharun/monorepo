@@ -3,8 +3,9 @@
   "main": "index.js",
   "workspaces": ["packages/*"],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "publish": "lerna publish"
+    "publish": "lerna publish",
+    "test": "lerna run test",
+    "build": "lerna run build"
   },
   "author": "",
   "license": "ISC",
