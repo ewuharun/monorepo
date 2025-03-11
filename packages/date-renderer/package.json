@@ -1,15 +1,17 @@
 {
   "name": "@ewuharun/date-renderer",
   "version": "2.0.0",
-  "description": "A package that returns the current date",
+  "description": "date renderer package",
   "main": "index.js",
   "repository": "https://github.com/ewuharun/monorepo.git",
   "publishConfig": {
     "@ewuharun:registry": "https://npm.pkg.github.com/ewuharun"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish"
   },
   "author": "ewuharun",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "98d7b4d2fa049f59360a85caed886d9d060c06b0"
 }

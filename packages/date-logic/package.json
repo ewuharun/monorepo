@@ -12,5 +12,6 @@
     "publish": "npm publish"
   },
   "author": "ewuharun",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "98d7b4d2fa049f59360a85caed886d9d060c06b0"
 }

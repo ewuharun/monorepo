@@ -1,3 +1,1 @@
-module.exports = function getDate() {
-  return new Date();
-};
+console.log("package 1")
