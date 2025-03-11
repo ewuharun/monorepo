@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.6.0](https://github.com/ewuharun/monorepo/compare/@ewuharun/date-logic@2.5.1...@ewuharun/date-logic@2.6.0) (2025-03-11)
+
+
+### Features
+
+* change date logic ([e8c4d58](https://github.com/ewuharun/monorepo/commit/e8c4d58dc16de331e99eed9e4ffd8798f682adc4))
+
+
+
+
+
 ## [2.5.1](https://github.com/ewuharun/monorepo/compare/@ewuharun/date-logic@2.5.0...@ewuharun/date-logic@2.5.1) (2025-03-11)
 
 **Note:** Version bump only for package @ewuharun/date-logic
