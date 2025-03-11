@@ -3,7 +3,7 @@ on:
   pull_request:
     types: [closed]
     branches:
-      - development
+      - develop
       - main
 
 jobs:
@@ -37,4 +37,4 @@ jobs:
           npx lerna version --conventional-commits --conventional-graduate --yes
         fi
 
-        npm run publish
+        npx lerna publish from-git --yes

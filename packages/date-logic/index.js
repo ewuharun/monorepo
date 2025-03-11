@@ -1,2 +1,2 @@
 console.log("package 1")
-conso
+console.log('date logic updated')
