@@ -20,7 +20,7 @@ jobs:
 
     - name: "Setup npm"
       run: |
-        npm set @ewuharun:registry=https://npm.pkg.github.com/ewuharun
+        npm set @ewuharun:registry=https://npm.pkg.github.com/
         npm set "//npm.pkg.github.com/:_authToken=${{ secrets.GIT_TOKEN }}"
 
     - name: Install dependencies
