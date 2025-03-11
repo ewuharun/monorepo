@@ -10,7 +10,9 @@ jobs:
   publish:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
+      packages: write
     steps:
     - name: "Checkout"
       uses: actions/checkout@v2
