@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.2](https://github.com/ewuharun/monorepo/compare/@ewuharun/date-renderer@2.1.1...@ewuharun/date-renderer@2.1.2) (2025-03-11)
+
+**Note:** Version bump only for package @ewuharun/date-renderer
+
+
+
+
+
 ## [2.1.1](https://github.com/ewuharun/monorepo/compare/@ewuharun/date-renderer@2.1.0...@ewuharun/date-renderer@2.1.1) (2025-03-11)
 
 **Note:** Version bump only for package @ewuharun/date-renderer
