@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.1.0](https://github.com/ewuharun/monorepo/compare/@ewuharun/date-logic@3.0.0...@ewuharun/date-logic@3.1.0) (2025-03-11)
+
+
+### Features
+
+* add logic BREAKING CHANGE: nothing ([10452f6](https://github.com/ewuharun/monorepo/commit/10452f68015c4a29d60346e8954ca02f7ccea689))
+
+
+
+
+
 # [3.0.0](https://github.com/ewuharun/monorepo/compare/@ewuharun/date-logic@2.6.1...@ewuharun/date-logic@3.0.0) (2025-03-11)
 
 
